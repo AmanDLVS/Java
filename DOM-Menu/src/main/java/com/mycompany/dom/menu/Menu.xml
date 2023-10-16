@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nonombrespaceSchemaLocation="Menu.xsd">
+   <plato>
+      <nombre>Gofres de nata</nombre>
+      <precio>$5.95</precio>
+      <descripcion>Dos de nuestros famosos gofres de nata con sirope de arce</descripcion>
+      <calorias>650</calorias>
+   </plato>
+   <plato>
+      <nombre>Gofres de fresa</nombre>
+      <precio>$7.95</precio>
+      <descripcion>Gofres ligeros con mermelada de fresa y nata</descripcion>
+      <calorias>900</calorias>
+   </plato>
+   <plato>
+      <nombre>Tortitas con miel</nombre>
+      <precio>$8.95</precio>
+      <descripcion>Nuestras deliciosas tortitlas y miel ecológia</descripcion>
+      <calorias>900</calorias>
+   </plato>
+   <plato>
+      <nombre>Tostada con Tomate</nombre>
+      <precio>$4.50</precio>
+      <descripcion>Rebanada gruesa de pan de masa madre con Tomate y aceite de oliva</descripcion>
+      <calorias>600</calorias>
+   </plato>
+   <plato>
+      <nombre>Desayuno Campero</nombre>
+      <precio>$6.95</precio>
+      <descripcion>Dos huevos, bacon o salchicha, tostada y queso fresco</descripcion>
+      <calorias>950</calorias>
+   </plato>
+</menu>
