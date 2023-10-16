@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cine>
+    	
+	
+    <pelicula calificacion="TP">
+        		
+        <titulo>Super López</titulo>
+        		
+        <sala>2</sala>
+        		
+        <precio>6.25</precio>
+        		
+	
+    </pelicula>
+    	
+    <pelicula calificacion="7 años">
+        		
+        <titulo>Animales fantasticos</titulo>
+        		
+        <sala>3</sala>
+        		
+        <precio>5.75</precio>
+        		
+	
+    </pelicula>
+    	
+    <pelicula calificacion="TP">
+        		
+        <titulo>El cascanueces y los cuatro reinos</titulo>
+        		
+        <sala>4</sala>
+        		
+        <precio>5.75</precio>
+        		
+	
+    </pelicula>
+    
+</cine>
