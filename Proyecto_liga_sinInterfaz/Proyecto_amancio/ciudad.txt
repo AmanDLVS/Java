@@ -1,0 +1,20 @@
+ paris 
+ francia 
+ londres
+ reino unido 
+ madrid 
+ beirut 
+ líbano
+ Nueva York
+ Tokio
+ Paris
+ Londres
+ Beijing
+ Moscú
+ Estambul
+ Dubái
+ São Paulo
+ Ciudad de Mexico
+
+
+
