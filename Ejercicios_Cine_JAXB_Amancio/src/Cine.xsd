@@ -1,0 +1,22 @@
+﻿<xs:schema attributeFormDefault="unqualified"
+	elementFormDefault="qualified"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="cine">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="pelicula" maxOccurs="unbounded"
+					minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element type="xs:string" name="titulo" />
+							<xs:element type="xs:byte" name="sala" />
+							<xs:element type="xs:float" name="precio" />
+						</xs:sequence>
+						<xs:attribute type="xs:string" name="calificacion"
+							use="optional" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
